@@ -1,5 +1,13 @@
 # 🧭 Wisdom Compass
 
+## Portfolio Status
+
+- **Status:** Park
+- **Confidence:** Medium
+- **Source of truth:** Macserver `guides/source-code-app-review.md`
+- **Reason:** Creative/portfolio asset; buyer unclear.
+
+
 > Navigate the vast ocean of human wisdom with a curated map of insights.
 
 **Wisdom Compass** is an interactive, visual exploration tool designed to help you discover and reflect on timeless advice from history's greatest thinkers. Using a Voronoi-based "Wisdom Map," the application categorizes insights into four main quadrants: **Action**, **Acceptance**, **Self**, and **World**.
