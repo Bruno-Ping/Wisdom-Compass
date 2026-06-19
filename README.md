@@ -27,3 +27,7 @@ Parked
 - `npm run dev` starts on Vite default port 5173
 - Quote data is pre-curated static JSON; no way to add quotes via the UI
 - BoardRoom.jsx and AuthorSelection.jsx exist in components/ but are not used in the current App.jsx — likely abandoned earlier design iterations
+
+## Distribution
+
+**iOS App Store — worth considering.** Daily inspiration and quote browsing are natural mobile habits (morning routine, commute). The Voronoi canvas interaction needs testing on 390px screens before committing to an App Store release. Suggested model: free app with 1,856+ quotes as the value proposition.
